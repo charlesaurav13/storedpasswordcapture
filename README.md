@@ -1,5 +1,5 @@
-# storedpasswordcapture
-You can use to capture the stored password after the post exploitation for the windows machine and then report will be send to you through gmail.
+# stored_wifi_password_capture
+You can use to capture the stored Wi- Fi password after the post exploitation for the windows machine and then report will be send to you through gmail.
 
 You need to provide your gmail account for siging in the google account.
 make sure that less sure apps is enabled in your gmail account.
